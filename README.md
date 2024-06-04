@@ -5,12 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Showcasing Video of the APP :- 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Video 2024-06-04 at 2 28 02 PM](https://github.com/Aspharier/destiny_flutter/assets/113495930/3804a92f-08c0-4ab4-b490-d2277ab9f548)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
